@@ -1,5 +1,4 @@
-# Smart Backup Scheduler
+# Part B from exercise 2 - Git/Github - Loop Future Skills Academy
 
-## CloudSync Pro's Intelligent Backup Automation
-
-### Part B from exercise 2 - Git/Github - Loop Future Skills Academy
+## Smart Backup Scheduler
+### CloudSync Pro's Intelligent Backup Automation
