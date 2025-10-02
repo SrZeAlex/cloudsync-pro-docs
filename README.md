@@ -1,2 +1,5 @@
-# cloudsync-pro-docs
-Part B - Exercise 2 - Smart Backup Scheduler Documentation
+# Smart Backup Scheduler
+
+## CloudSync Pro's Intelligent Backup Automation
+
+### Part B from exercise 2 - Git/Github - Loop Future Skills Academy
